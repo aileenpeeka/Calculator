@@ -1,5 +1,6 @@
 .container {
     text-align: center;
+    background-color: bisque;
     margin-top: 23px
 }
 
@@ -9,24 +10,24 @@ table {
 
 input {
     border-radius: 21px;
-    border: 5px solid #244624;
+    border: 5px solid #78065d;
     font-size: 34px;
-    height: 65px;
-    width: 456px;
+    height: 70px;
+    width: 450px;
 }
 
 button {
-    border-radius: 20px;
-    font-size: 40px;
-    background: #978fa0;
-    width: 102px;
+    border-radius: 38px;
+    font-size: 35px;
+    background: #deceef;
+    width: 100px;
     height: 90px;
     margin: 6px;
 }
 
 .calculator {
-    border: 4px solid #13695d;
-    background-color: #ff99f7;
+    border: 4px solid #78065d;
+    background-color: #f342a9;
     padding: 23px;
     border-radius: 53px;
     display: inline-block;
@@ -34,8 +35,6 @@ button {
 }
 
 h1 {
-    font-size: 28px;
-    font-family: 'Courier New', Courier, monospace;
+    font-size: 45px;
+    font-family: 'Baskerville', Courier, monospace;
 }
-
-Copy
